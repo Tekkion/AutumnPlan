@@ -22,7 +22,7 @@ A fun plan for autumn vacation with outdoor, indoor, and cinematic activities.
 ### 4. Indoor Fun 🕹️
 - Play **Lasertag**.
 - Go **indoor karting**.
-- A round of **Warhammer 40k**
+- A match of **Warhammer 40k**
 
 ### 5. Outdoor / Swimming 🏊‍♂️
 - Visit **Laguna Badeland** for some fun in the water.
@@ -41,7 +41,8 @@ A fun plan for autumn vacation with outdoor, indoor, and cinematic activities.
 - [ ] Carve 5 pumpkins  
 - [ ] Create Jack-O-Lantern scarecrow  
 - [ ] Make red LED throwies for bushes  
-- [ ] Setup fog machine  
+- [ ] Setup fog machine
+- [ ] WH 40k match
 - [ ] Watch Toxic Avenger  
 - [ ] Watch Tron: Ares  
 - [ ] Play Lasertag  
