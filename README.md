@@ -37,14 +37,14 @@ A fun plan for autumn vacation with outdoor, indoor, and cinematic activities.
 ---
 
 ## Checklist ✅
-- [ ] Change tires on Harald  
-- [ ] Carve 5 pumpkins  
-- [ ] Create Jack-O-Lantern scarecrow  
+- [x] Change tires on Harald  
+- [x] Carve 5 pumpkins  
+- [x] Create Jack-O-Lantern scarecrow  
 - [ ] Make red LED throwies for bushes  
-- [ ] Setup fog machine
+- [x] Setup fog machine
 - [ ] WH 40k match
 - [ ] Watch Toxic Avenger  
-- [ ] Watch Tron: Ares  
+- [x] Watch Tron: Ares  
 - [ ] Play Lasertag  
 - [ ] Indoor karting  
 - [ ] Visit Laguna Badeland
